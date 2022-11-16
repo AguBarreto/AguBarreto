@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin Barreto</h1>
 <h3 align="center">A passionate Java Developer from Argentina</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/906441/screenshots/2194312/fbdribbble2.gif" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agubarreto" alt="agubarreto" /></a> </p>
+<p align="left"> <img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" /> </p>
 
 - 💬 Ask me about **Java, HTML, CSS, Javascript, Spring and Hibernate**
 
