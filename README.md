@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin Barreto</h1>
 <h3 align="center">A passionate Java Developer from Argentina</h3>
 
-<p align="center">  <width="600"  img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" /> </p>
+<p align="center">  < img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" /> </p>
 
 
 - 💬 Ask me about **Java, Spring, Hibernate, HTML, CSS, Javascript, and React**
