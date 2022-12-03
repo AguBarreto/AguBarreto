@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Agustin Barreto</h1>
 <h3 align="center">A passionate Java Developer from Argentina</h3>
 
-<p align="center">  < img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" /> </p>
+<p align="center">  <img src="https://holagraphcorporate.com/images/Freelancer.gif" /> </p>
 
 
 - 💬 Ask me about **Java, Spring, Hibernate, HTML, CSS, Javascript, and React**
 
 - 📫 How to reach me **aguBarreto382@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/agubarreto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agubarreto" height="30" width="40" /></a>
 </p>
 
