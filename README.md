@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin Barreto</h1>
 <h3 align="center">A passionate Java Developer from Argentina</h3>
 
-<p align="center">  <img src="https://holagraphcorporate.com/images/Freelancer.gif" /> </p>
+<p align="center">  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> </p>
 
 
 - 💬 Ask me about **Java, Spring, Hibernate, HTML, CSS, Javascript, and React**
