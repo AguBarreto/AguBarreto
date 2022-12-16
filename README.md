@@ -38,16 +38,5 @@
 <h3 align="left">Databases :</h3>
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img alt="SQLServer" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=prakash-naikwadi&show_icons=true&theme=dark&locale=en" alt="prakash-naikwadi" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-naikwadi&show_icons=true&theme=dark&locale=en&layout=compact" alt="prakash-naikwadi" /></td>
-  </tr>
-</table>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-naikwadi&theme=dark" alt="prakash-naikwadi" /></p>
-  </div>
